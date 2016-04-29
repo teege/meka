@@ -1,0 +1,1 @@
+../../Cellar/allegro/5.0.11/lib/pkgconfig/allegro_color-5.0.pc

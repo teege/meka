@@ -1,0 +1,18 @@
+;-----------------------------------------------------------------------------
+; MEKA 0.80-alpha - User Filenames DataBase
+; Associate user filenames with MEKA DataBase entries.
+; This information is used by the file loader.
+; This file is automatically updated and rewritten by the emulator.
+;-----------------------------------------------------------------------------
+
+Blade Eagle 3D.sms/CRC32:8ecd201c/MEKACRC:95A173467C000C89
+Line of Fire.sms/CRC32:cb09f355/MEKACRC:9C076464A46F730F
+Maze Hunter 3D (1987)(Sega)(En).sms/CRC32:31b8040b/MEKACRC:8775EA954C13F531
+Missile Defense 3D (1987)(Sega)(En).sms/CRC32:fbe5cfbb/MEKACRC:32DAD3B36F53F7B5
+Out Run 3D (1989)(Sega)(En).sms/CRC32:d6f43dda/MEKACRC:1BB3AE977AC3CCE4
+Poseidon Wars 3D (1989)(Sega)(En).sms/CRC32:abd48ad2/MEKACRC:DFAFA4ECD0D02D15
+Space Harrier 3D (1988)(Sega)(En).sms/CRC32:6bd5c2bf/MEKACRC:BEFA25D66361C8C1
+Zaxxon 3D (1987)(Sega)(En).sms/CRC32:a3ef13cb/MEKACRC:73E4CCD0CC1A69BE
+
+;-----------------------------------------------------------------------------
+
