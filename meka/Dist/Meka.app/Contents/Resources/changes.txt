@@ -5,6 +5,23 @@
  source code and refer to HISTORY.TXT file.
 -----------------------------------------------------------------------------
 
+ MEKA 1.0 3D (UNOFFICIAL 3D RELEASE)
+ -----------------------------------
+  - 3D Side-by-Side mode was implemented.  This enables native 3D support found in modern 3D TVs.
+  - Added a new "Status" menu option to the 3-D menu.  Options are now Disabled/Enabled/Auto.
+     The Auto option will selectively enable 3D mode in games that support the feature.
+     The Enabled option will force 3D to enabled.  This is useful for "Line of Fire", which has a hidden 3-D mode.
+  - Made various changes to allow compilation in Xcode
+  - Made Mouse cursor hide in Fullscreen mode (annotated with // TOMMOUSE //)
+     This was done in anticipation of bluetooth Wiimote support for use as a light gun (not yet implemented)
+     I may instead opt to get WJoy (or similar) working in El Capitan --In particular, the IR Mouse feature.
+     This would allow a Wiimote to be used as a light gun on any emulator that has mouse-based light gun support.
+  - Contains a workaround for what I assume to be a bug in Allegro's fullscreen support.
+     Instead of using fullscreen mode, it's now using a "windowed" fullscreen mode.
+     If the fullscreen mode is enabled in the meka.cfg, the resolution parameter is ignored, and the desktop resolution is used instead.
+     The parameter is respected when running in windowed mode.
+     
+
  MEKA 0.80 WIP
  -------------
 

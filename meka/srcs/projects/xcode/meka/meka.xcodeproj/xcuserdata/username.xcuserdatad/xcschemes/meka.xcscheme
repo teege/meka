@@ -44,7 +44,7 @@
       allowLocationSimulation = "YES">
       <PathRunnable
          runnableDebuggingMode = "0"
-         FilePath = "/Users/username/Documents/Meka Project/meka-feature-macosx/meka/meka">
+         FilePath = "/Users/username/git/meka/meka/meka">
       </PathRunnable>
       <MacroExpansion>
          <BuildableReference
